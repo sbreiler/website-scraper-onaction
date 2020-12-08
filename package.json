@@ -1,17 +1,18 @@
 {
-  "name": "website-scraper-onevent",
-  "version": "0.0.2",
+  "name": "website-scraper-onaction",
+  "version": "0.0.3",
   "description": "Plugin for website-scraper, which makes the actions easier to handle",
   "readmeFilename": "README.md",
   "main": "lib/index.js",
   "keywords": [
     "website-scraper",
-    "events"
+    "events",
+    "actions"
   ],
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sbreiler/website-scraper-onevent.git"
+    "url": "git+https://github.com/sbreiler/website-scraper-onaction.git"
   },
   "author": "Steffen Breiler <steffen@bt-server.de>",
   "license": "MIT",
