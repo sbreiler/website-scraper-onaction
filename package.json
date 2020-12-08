@@ -1,6 +1,6 @@
 {
   "name": "website-scraper-onevent",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Plugin for website-scraper, which makes the actions easier to handle",
   "readmeFilename": "README.md",
   "main": "lib/index.js",
